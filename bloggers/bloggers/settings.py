@@ -5,7 +5,6 @@ Django settings for bloggers project.
 import os
 from pathlib import Path
 from datetime import timedelta
-import dj_database_url
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
