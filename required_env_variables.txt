@@ -1,0 +1,6 @@
+SECRET_KEY : Django secret key
+DEBUG : True or False
+DB_HOST : MySql db host address
+DB_USER : MySql db user
+DB_PASSWORD : MySql db password
+DB_NAME : MySql db name

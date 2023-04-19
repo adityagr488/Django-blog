@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+bloggers/__pychache__/
+bloggers/*/__pychache__/
+bloggers/*/*/__pychache__/
+bloggers/*/*/*/__pychache__/
+
+bloggers-venv
